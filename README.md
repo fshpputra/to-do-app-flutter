@@ -1,6 +1,6 @@
-# project1
+# To do App
 
-A new Flutter project.
+A new Flutter project To do App.
 
 ## Getting Started
 
